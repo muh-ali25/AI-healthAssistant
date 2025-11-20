@@ -1,0 +1,10 @@
+langchain
+langchain-community
+openai
+pinecone-client
+python-dotenv
+pypdf
+tqdm
+requests
+fastapi
+uvicorn[standard]
